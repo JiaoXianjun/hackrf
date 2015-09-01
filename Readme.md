@@ -1,3 +1,7 @@
+An example of how to interface with 1602 LCD and UART. By Xianjun Jiao (putaoshu@gmail.com)
+
+See detailed introduction here: [http://sdr-x.github.io/UART1602LCD/](http://sdr-x.github.io/UART1602LCD/)
+
 This repository contains hardware designs and software for HackRF, a project to
 produce a low cost, open source software radio platform.
 
